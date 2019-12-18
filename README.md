@@ -8,7 +8,7 @@ This is my final project on Laos, where I analyzed the population and utilities 
 
 ![](lao_part2.png)
 
-![](lao_part1.png)
+![](lao_part1.png) 
 
 There are 19 administrative regions in Laos along with 141 districts. 
 
@@ -16,7 +16,7 @@ There are 19 administrative regions in Laos along with 141 districts.
 ### Laos' most populated county
 ![](vientiane_capital.png)
 
-Shown here is Vientiane Capital, the largest region in Laos in terms of population. As seen in the adm1 map, it is in the eastern part of Laos, being right on the border of Thailand. 
+Shown here is Vientiane Capital, the largest region in Laos in terms of population. As seen in the adm1 map, it is in the western part of Laos, being right on the border of Thailand. 
 
 ### More populated regions
 ![](savannakhet.png)
