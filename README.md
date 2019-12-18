@@ -30,26 +30,26 @@ This is the regression for all covariates along with the population of Laos.
 
 ## Population Sum
 
-![](Diff of sums.png)
+![](Diff_of_sums.png)
 
-![](Diff. of sums 3D.png)
+![](Diff._of_sums_3D.png)
 
 
 ## Population Mean
 
-![](Diff. of means.png)
+![](Diff._of_means.png)
 
-![](Diff of means 3D.png)
+![](Diff_of_means 3D.png)
 
 ## Population logpop
 
-![](Diff. of logpop.png)
+![](Diff._of_logpop.png)
 
-![](Diff. of logpop 3D.png)
+![](Diff._of_logpop 3D.png)
 
 ## Cellstats
 
-![](Screen Shot 2019-11-17 at 6.19.58 PM.png)
+![](cell_stats.png)
 
 The cellstats show that the most accurate model for me was the means model, as the absolute value of the difference from the actual population was the smallest. The difference of sums is also a good measure, as it did not overestimate as much as as the other two, but I still give the edge to means as it is a better overall graph
 
@@ -65,4 +65,4 @@ There are 5 urban areas and the total population is 233,600. Having the highest 
 
 ## Table
 
-![](Screen Shot 2019-12-18 at 12.47.21 AM.png)
+![](table.png)
