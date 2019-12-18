@@ -22,7 +22,9 @@ This is my final project on Laos, where I analyzed the population and utilities 
 
 ## Population logpop
 
-![] Diff. of logpop.png
-![] Diff. of logpop 3D.png
+![]Diff. of logpop.png
+![]Diff. of logpop 3D.png
 
 ## Cellstats
+
+![]Screen Shot 2019-11-17 at 6.19.58 PM.png
