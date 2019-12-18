@@ -6,7 +6,11 @@ This is my final project on Laos, where I analyzed the population and utilities 
 
 ## Population of Laos' Regions
 
+### Laos at adm1
+
 ![](laos.png)
+
+### Laos at adm2
 
 ![](laos_adm2.png)
 
