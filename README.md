@@ -39,13 +39,13 @@ This is the regression for all covariates along with the population of Laos.
 
 ![](Diff._of_means.png)
 
-![](Diff_of_means 3D.png)
+![](Diff_of_means_3D.png)
 
 ## Population logpop
 
 ![](Diff._of_logpop.png)
 
-![](Diff._of_logpop 3D.png)
+![](Diff._of_logpop_3D.png)
 
 ## Cellstats
 
