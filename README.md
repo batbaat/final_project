@@ -9,3 +9,20 @@ This is my final project on Laos, where I analyzed the population and utilities 
 ![]laos.png
 
 
+## Population Sum
+
+![]Diff of sums.png
+![]Diff. of sums 3D.png
+
+
+## Population Mean
+
+![]Diff. of means.png
+![]Diff of means 3D.png
+
+## Population logpop
+
+![] Diff. of logpop.png
+![] Diff. of logpop 3D.png
+
+## Cellstats
