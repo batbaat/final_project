@@ -2,6 +2,26 @@
 
 This is my final project on Laos, where I analyzed the population and utilities in Xaythany and Mayparkngum. 
 
+## Administrative Subdivisions of Laos
+
+### Adm1 and Adm2 of Laos
+
+![](lao_part2.png)
+
+![](lao_part1.png)
+
+There are 19 administrative regions in Laos along with 141 districts. 
+
+
+### Laos' most populated county
+![](vientiane_capital.png)
+
+Shown here is Vientiane Capital, the largest region in Laos in terms of population. As seen in the adm1 map, it is in the eastern part of Laos, being right on the border of Thailand. 
+
+### More populated regions
+![](savannakhet.png)
+
+Shown here are Savannakhet and Salavan, 2 more big regions in Laos in terms of population. They are pretty far from Vientiane Capital, and are in the western part of Laos. They border Thailand also, with countries that border Thailand typically being larger in terms of 
 
 
 ## Population of Laos' Regions
