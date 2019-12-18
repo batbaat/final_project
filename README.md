@@ -4,9 +4,10 @@ This is my final project on Laos, where I analyzed the population and utilities 
 
 
 
-## Histogram of Laos 
+## Population of Laos 
 
 ![](laos.png)
+![]()
 
 
 ## Population Sum
