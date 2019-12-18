@@ -16,7 +16,7 @@ This is my final project on Laos, where I analyzed the population and utilities 
 
 ![](laos_3d_gif.gif)
 
-The density plots of Laos shows that the population is very spread out, with Savannakhet and Vientiane Capital being the highest population regions. The areas of lower population, namely the the areas above Vientiane Capital, are located in the Annamite mountain, explaining why the lower regions have more population and the higher ones have less. 
+The density plots of Laos shows that the population is very spread out, with Savannakhet and Vientiane Capital being the highest population regions. The areas of lower population, namely the the areas above Vientiane Capital, are located in the Annamite mountain, explaining why the lower regions have more population and the higher ones have less. The adm2 map shows the same thing as the adm1 does, just at a smaller level. 
 
 ## Histograms
 
